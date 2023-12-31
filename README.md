@@ -27,7 +27,7 @@ providing a user-friendly interface for managing tasks with various functionalit
 #### 1. Clone the repository
 
    ```bash 
-   git clone https://github.com/YarinBenZimra/TaskManagerFlutterApp.git
+   git clone https://github.com/YarinBenZimra/Task-Management-Application.git
 ```
 
 #### 2. Navigate to the project directory
