@@ -41,7 +41,7 @@ cd TaskManagerApp
 
  ```bash
 class AppConfig {
-  static const String serverUrl = 'http://your_server_ip:3000';
+  static const String serverUrl = 'http://your_server_ip';
 }
 ```
 
