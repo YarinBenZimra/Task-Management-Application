@@ -37,11 +37,11 @@ cd TaskManagerApp
 ```
 
 #### 3. Configure the server URL
-   Edit the config.dart file in the lib directory and replace the serverUrl with your server's IP address.
+   Edit the config.dart file in the lib directory and replace the serverUrl with your IP address.
 
  ```bash
 class AppConfig {
-  static const String serverUrl = 'http://your_server_ip';
+  static const String serverUrl = 'http://your_ip';
 }
 ```
 
